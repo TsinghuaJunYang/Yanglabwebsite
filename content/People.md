@@ -50,11 +50,16 @@ Reserach interests: Historical patterns of global urbanization
 
 
 ***
-<span style='color: green; font-weight: bold;'> Xinyi Liu </span>
+<span style='color: green; font-weight: bold;'> Xinyi Liu </span>  <img src="Materials/Liuxinyi.jpg" width="150" 
+alt="Right aligned" style="float: right; margin: 0 0 5pt 5pt;">
 
 Email: liu-xy22(at)mails.tsinghua.edu.cn
 
 Research interests: Avian frugivory in urban environments
+
+
+
+
 
 ***
 <span style='color: green; font-weight: bold;'> Yue Ma </span>  <img src="Materials/Yuema.jpg" width="150" 
@@ -63,6 +68,7 @@ alt="Right aligned" style="float: right; margin: 0 0 5pt 5pt;">
 Email: ma-y22(at)mails.tsinghua.edu.cn
 
 Research interests: Urban infrasructure and urban resilience
+
 
 
 
@@ -88,12 +94,14 @@ Research interests: AI and urban remote sensing
 
 
 
+
 ***
 <span style='color: green; font-weight: bold;'> Xuanhong Zhou </span>  <img src="Materials/Zhouxuanhong.jpg" width="150"  alt="Right aligned" style="float: right; margin: 0 0 5pt 5pt;">
 
 Email: zhou-xh24(at)mails.tsinghua.edu.cn
 
 Research interests: AI and urban biodiversity
+
 
 
 
@@ -108,6 +116,7 @@ Research interests: Urban avian diversity and land use/land cover
 
 
 
+
 ***
 <span style='color: green; font-weight: bold;'> Jialin Li </span>  <img src="Materials/Jialinli.png" width="150" 
 alt="Right aligned" style="float: right; margin: 0 0 5pt 5pt;">
@@ -115,7 +124,6 @@ alt="Right aligned" style="float: right; margin: 0 0 5pt 5pt;">
 Email: 
 
 Research interests: Ecological, social, and economic impacts of urbanization
-
 
 
 
