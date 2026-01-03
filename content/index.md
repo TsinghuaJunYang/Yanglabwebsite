@@ -14,19 +14,19 @@ The **Yang Lab** is committed to promoting urban sustainability and livability t
 
 We examine the manner in which the physical and socio-economic composition of urban areas interacts with ecological processes.
 
-* **Example works:** Analyzing the **ecological, social, and economic impacts of urbanization** and mapping the relationship between **urban green infrastructure** and **land use/land cover** change.
+* **Example works:** Analyzing the **ecological, social, and economic impacts of urbanization** and mapping the relationship between **urban carbon emission** and **land use/land cover**change.
 
 ### 2. Urban Ecosystem Services and Human Well-being
 
 Our research quantifies the tangible benefits that nature provides to city dwellers.
 
-* **Example works:** Assessing the role of **urban green infrastructure** in climate regulation and its impacts on human health** and overall well-being.
+* **Example works:** Assessing the role of **urban green infrastructure** in climate regulation and its impacts on **human health** and **overall well-being**.
 
 ### 3. Urban Biodiversity
 
 We utilize cutting-edge technology to monitor and protect biodiversity in human-dominated landscapes.
 
-* **Example works:** Applying **AI and urban remote sensing** to track **urban biodiversity** and developing **AI tools** to mine information essential for **urban biodiversity conservation**.
+* **Example works:** Applying **AI and urban remote sensing** to track **urban biodiversity** and developing **tools** to mine information essential for **urban biodiversity conservation**.
 
 ### 4. Nature-Based Solutions for Climate Resilience
 
