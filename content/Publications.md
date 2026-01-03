@@ -90,7 +90,7 @@ opportunities for resilient and sustainable urban forests. **Nature Cities**, 2,
 
 [16] Banzhaf, E., Anderson, S., Grandin, G., <u>Yang, J</u>., Zandersen, M. 2022. Urban-rural dependencies and opportunities to design nature-based solutions for resilience in Europe and China. **Land**, 11, 480
 
-[15] Ren, B., Park, K., Shrestha, A., <u>Yang, J</u>., et al. 2022. Impact of human disturbances on the spatial heterogeneity of landscape fragmentation in Qilian Mountain National Park, China. *Land*, 11, 2087
+[15] Ren, B., Park, K., Shrestha, A., <u>Yang, J</u>., et al. 2022. Impact of human disturbances on the spatial heterogeneity of landscape fragmentation in Qilian Mountain National Park, China. **Land**, 11, 2087
 
 [14] Yang, J., Luo, X., Lu, S., Yang, Y., <u>Yang, J*</u>. 2022. Effects of compositional and configurational heterogeneity of the urban matrix on the species richness of woody plants in urban remnant forest patches. **Landscape Ecology**, 37, 619-632
 
