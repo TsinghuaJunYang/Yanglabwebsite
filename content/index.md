@@ -26,9 +26,9 @@ Our research quantifies the tangible benefits that nature provides to city dwell
 
 We utilize cutting-edge technology to monitor and protect biodiversity in human-dominated landscapes.
 
-* **Example works:** Applying **AI and urban remote sensing** to track **urban biodiversity** and developing **tools** to mine information essential for **urban biodiversity conservation**.
+* **Example works:** Applying **AI and urban remote sensing** to track **urban biodiversity** and developing **policies and tools** essential for **urban biodiversity conservation**.
 
-### 4. Nature-Based Solutions for Climate Resilience
+### 4. Nature-Based Solutions for Urban Resilience
 
 We focus on how natural elements in urban ecosystems can be leveraged to protect cities from environmental stressors.
 
