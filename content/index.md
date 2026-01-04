@@ -14,7 +14,7 @@ The **Yang Lab** is committed to promoting urban sustainability and livability t
 
 We examine the manner in which the physical and socio-economic composition of urban areas interacts with ecological processes.
 
-* **Example works:** Analyzing the **ecological, social, and economic impacts of urbanization** and mapping the relationship between **urban carbon emission** and **land use/land cover**change.
+* **Example works:** Analyzing the **ecological, social, and economic impacts of urbanization** and mapping the relationship between **urban carbon emission** and **land use/land cover** change.
 
 ### 2. Urban Ecosystem Services and Human Well-being
 

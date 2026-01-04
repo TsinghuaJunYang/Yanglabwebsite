@@ -17,8 +17,7 @@ Journal papers published in the last five years. For a full list of publications
 
 [52] Hu, J., Zhou, Y., Yang Y., Zhu, Z., <u>Yang, J</u>., Meng X., Lai F. 2025. Multi-city local climate zone mapping and its quantitative applications on measuring surface urban heat Island in China. **Remote Sensing of Environment**, 330, 114965. 
 
-[51] Esperon-Rodriguez, M., Gallagher, R., Calfapietra, C...<u>Yang, J</u>., Tjoelker, MG. 2025. Barriers and
-opportunities for resilient and sustainable urban forests. **Nature Cities**, 2, 290-298. 
+[51] Esperon-Rodriguez, M., Gallagher, R., Calfapietra, C...<u>Yang, J</u>., Tjoelker, MG. 2025. Barriers and opportunities for resilient and sustainable urban forests. **Nature Cities**, 2, 290-298. 
 
 [50] Zhou, X., <u>Yang, J*</u>. 2025. Applications and challenges of AI and LLMs in biodiversity conservation research and practices. **Biodiversity Science**, 33, 25179. (In Chinese, English abstract)
 
@@ -108,7 +107,7 @@ opportunities for resilient and sustainable urban forests. **Nature Cities**, 2,
 
 [7] <u>Yang, J*</u>., Zhang, Y., Xiao, Y., Shen, S., Su, M., Gong, P. 2021. Using internet search queries to assess public awareness of the Healthy Cities approach: A case study in Shenzhen, China. **International Journal of Environmental Research and Public Health**, 18, 4264. 
 
-[6] Luo, X., Jiang, P., Yang, J., Jin, J. 2021. Simulating PM2. 5 removal in an urban ecosystem based on the social-ecological model framework. **Ecosystem Services**, 47, 101234.
+[6] Luo, X., Jiang, P., <u>Yang, J*</u>., Jin, J. 2021. Simulating PM2. 5 removal in an urban ecosystem based on the social-ecological model framework. **Ecosystem Services**, 47, 101234.
 
 [5] Gao, B., Gong, P., Zhang, W., <u>Yang, J</u>., Si, Y*. Multiscale effects of habitat and surrounding matrices on waterbird diversity in the Yangtze River Floodplain. **Landscape Ecology**, 36, 179-190. 
 
