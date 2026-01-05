@@ -10,7 +10,7 @@ tags:
 
 The **Yang Lab** is committed to promoting urban sustainability and livability through comprehensive ecological research. By integrating **field work** with **AI, big data, and remote sensing**, we investigate the intricate interactions between constructed environments and natural systems across four principal themes.
 
-### 1. Urban Structure and Functions
+### 1. Urban Ecosystem Structure and Functions
 
 We examine the manner in which the physical and socio-economic composition of urban areas interacts with ecological processes.
 
