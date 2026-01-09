@@ -1,11 +1,13 @@
 ---
 title: Publications
 weight: 3
-date: 2026-01-03
+date: 2026-01-09
 ---
 
 ***
 Journal papers published in the last five years. For a full list of publications, please check out my [Google Scholar page](https://scholar.google.com/citations?user=Q6TkqvkAAAAJ&hl=en), or [ORCID page](https://orcid.org/0000-0003-0824-749X))
+
+[57] Sun, Z., Zhou, Y., <u>Yang, J*</u>. 2026. An LLM-based multi-agent system for remote sensing analysis. **Big Earth Data**. [https://doi.org/10.1080/20964471.2025.2600178](https://doi.org/10.1080/20964471.2025.2600178)
 
 [56] <u>Yang, J*</u>., Zhou, X., Yang, X. 2026. Analysis of Principles and contents of guidelines for constructing bird-friendly urban green spaces. **Landscape Architecture**, 33, 1-12. (In Chinese, Long English abstract)
 

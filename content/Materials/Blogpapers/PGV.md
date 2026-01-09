@@ -1,5 +1,6 @@
 ---
 tags:
+title: Perceived green volume
 ---
 Urban greening in China is undergoing a transition from simply pursuing quantity to pursuing quality. How to enhance the sense of gain and satisfaction of urban residents has become an important goal of urban greening. These changes are driving the expansion of measurement indicators for urban green space from measuring objective physical quantities to measuring residents' subjective perceptions, providing usable tools to resolve the contradiction where the quantity of green space has surged, yet residents still feel a lack of greenery. Existing methods that incorporate subjective perceptions of green space, such as calculating the Green View Index, green preference scoring, and integrating usage frequency with perceived quality, are difficult to implement effectively in practice, either because the indicators are dimensionless or the calculation methods are complex. Therefore, this study plans to develop a green space quantitative indicator that incorporates subjective perceptions and can be integrated with urban greening work: Perceived Green Volume (PGV).
 
@@ -30,3 +31,5 @@ The essence of Perceived Green Volume is the result of weighting and summing the
 
 For more information, please read our paper:
 Zhang, YT., Sun ZL., John, SJ., Li, XY., Yang, J*. (2026).  Measuring perceived green volume for quantifying urban green exposure.  Urban Forestry & Urban Greening, 16, 129231.  https://doi.org/10.1016/j.ufug.2025.129231 
+
+Back to [home](index.md)
