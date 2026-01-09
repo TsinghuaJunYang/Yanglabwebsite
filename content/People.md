@@ -32,10 +32,13 @@ Research interests: Urban green infrastructure and human health
 
 ***
 
-<span style='color: green; font-weight: bold;'> Ziyi Guo </span>      
+<span style='color: green; font-weight: bold;'> Ziyi Guo </span>      <img src="Materials/ZiyiGuo.jpg" width="150" 
+alt="Right aligned" style="float: right; margin: 0 0 5pt 5pt;">
 
 Email: guozy21(at)mails.tsinghua.edu.cn   
 Research interests: Social-ecological impacts of mining Licor in Chile  
+
+
 
 ***
 <span style='color: green; font-weight: bold;'> Zemin Feng </span>       <img src="Materials/Zemingfeng.jpg" width="150" 
@@ -44,7 +47,6 @@ alt="Right aligned" style="float: right; margin: 0 0 5pt 5pt;">
 Email: fengzm22(at)mails.tsinghua.edu.cn
 
 Reserach interests: Historical patterns of global urbanization 
-
 
 
 

@@ -67,9 +67,9 @@ Editorial member, [Biodiversity Science](https://www.biodiversity-science.net/CN
 
 Editorial member, [Landscape Architecture](http://lalavision.com/) (2017-present) 
 
-Editorial member, [Agricultural and Forest Meteorology](https://www.sciencedirect.com/journal/agricultural-and-forest-meteorology) (2016-present)
-
 Editorial member, [Journal of Chinese Urban Forestry](https://journals.caf.ac.cn/zgcsly/) (2015-present)
+
+Editorial member, [Agricultural and Forest Meteorology](https://www.sciencedirect.com/journal/agricultural-and-forest-meteorology) (2016-2026)
 
 ### Affiliation
 
