@@ -9,10 +9,10 @@ tags:
 
 ### 06-Jan-2026 [Perceived Green Volume](Materials/Blogpapers/PGV.md) 
 
+### 08-Jan-2026 [Prof. Raffaele Lafortezza from the University of Bari visits the lab](Materials/Blogpapers/VisitbyRaff.md)
 
 
-
-*Note:* If you can read Chinese or are good with home page translation, you are welcomed to visit our WeChat public platform **UBES-China** to access blog papers in other years. You can scan the QR code below to get access.
+*Note:* If you can read Chinese or are good with web page translation, you are welcomed to visit our WeChat public platform **UBES-China** to access blog papers in other years. You can scan the QR code below to get access.
 
 
 <img src="Materials/qrcode.jpg" width="300" alt="Right aligned">
