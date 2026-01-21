@@ -36,7 +36,7 @@ We focus on how natural elements in urban ecosystems can be leveraged to protect
 
 By bridging the gap between built environment science and urban ecology, we provide the evidence-based insights necessary to build resilient, biodiverse, and healthy cities for the future.
 
-We offer postdoctoral fellowships and research assistant positions to anyone who are interested in above topics. If you are interested, please drop me a message and your CV.  
+<span style='color: green; font-weight: bold;'>We have opportunities for postdoctoral fellowships and research assistant positions. Please drop me a message and your CV to make an inquiry.  </span>
 
 Contact: Dr. Jun Yang  
 Email: **larix(at)tsinghua.edu.cn**;  **larix001(at)gmail.com**  
