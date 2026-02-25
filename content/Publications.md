@@ -1,49 +1,51 @@
 ---
 title: Publications
 weight: 3
-date: 2026-01-09
+date: 2026-02-25
 ---
 
 ***
 Journal papers published in the last five years. For a full list of publications, please check out my [Google Scholar page](https://scholar.google.com/citations?user=Q6TkqvkAAAAJ&hl=en), or [ORCID page](https://orcid.org/0000-0003-0824-749X))
 
-[57] Sun, Z., Zhou, Y., <u>Yang, J*</u>. 2026. An LLM-based multi-agent system for remote sensing analysis. **Big Earth Data**. [https://doi.org/10.1080/20964471.2025.2600178](https://doi.org/10.1080/20964471.2025.2600178)
+[58] Yang, X., Jin, J., Liu, X., Li, X., Frank, L., Yan, P., Myla, A., <u>Yang, J*</u>. 2026. Homogenization and differentiation of urban tree assemblages globally. **Nature Cities**, https://doi.org/10.1038/s44284-026-00393-4. 
 
-[56] <u>Yang, J*</u>., Zhou, X., Yang, X. 2026. Analysis of Principles and contents of guidelines for constructing bird-friendly urban green spaces. **Landscape Architecture**, 33, 1-12. (In Chinese, Long English abstract)
+[57] Yang, X., Yan, P., Ji, J., Li, X., <u>Yang, J*</u>. 2026. Global Urban Tree Species (GUTS): Revealing tree species diversity across the world's urban areas. **Scientific Data**, https://doi.org/10.1038/s41597-026-06868-2. 
 
-[55] Zhang, Y., Sun, Z., Ji, J., Li, X., <u>Yang, J*</u>. 2026. Measuring perceived green volume for quantifying urban green exposure. **Urban Forestry & Urban Greening**, 116, 129231. 
+[56] Sun, Z., Zhou, Y., <u>Yang, J*</u>. 2026. An LLM-based multi-agent system for remote sensing analysis. **Big Earth Data**. [https://doi.org/10.1080/20964471.2025.2600178](https://doi.org/10.1080/20964471.2025.2600178)
 
-[54] Liu, X., Yang, X., Zhou, J., Li, X., <u>Yang, J*</u>. 2025. Intra-urban variability in frugivorous bird and fruit tree interaction networks. **Ecological Frontiers**, https://doi.org/10.1016/j.ecofro.2025.12.010. 
+[55] <u>Yang, J*</u>., Zhou, X., Yang, X. 2026. Analysis of Principles and contents of guidelines for constructing bird-friendly urban green spaces. **Landscape Architecture**, 33, 1-12. (In Chinese, Long English abstract)
 
-[53] Liu, X., Yang, X., Zou, J., Li, X., Guo, Z., <u>Yang, J*</u>. Patterns of avian frugivory in Beijing's urban forest across multiple temporal scales. **Ecology and Evolution**, 15, e72699. 
+[54] Zhang, Y., Sun, Z., Ji, J., Li, X., <u>Yang, J*</u>. 2026. Measuring perceived green volume for quantifying urban green exposure. **Urban Forestry & Urban Greening**, 116, 129231. 
 
-[52] Hu, J., Zhou, Y., Yang Y., Zhu, Z., <u>Yang, J</u>., Meng X., Lai F. 2025. Multi-city local climate zone mapping and its quantitative applications on measuring surface urban heat Island in China. **Remote Sensing of Environment**, 330, 114965. 
+[53] Liu, X., Yang, X., Zhou, J., Li, X., <u>Yang, J*</u>. 2025. Intra-urban variability in frugivorous bird and fruit tree interaction networks. **Ecological Frontiers**, https://doi.org/10.1016/j.ecofro.2025.12.010. 
 
-[51] Esperon-Rodriguez, M., Gallagher, R., Calfapietra, C...<u>Yang, J</u>., Tjoelker, MG. 2025. Barriers and opportunities for resilient and sustainable urban forests. **Nature Cities**, 2, 290-298. 
+[52] Liu, X., Yang, X., Zou, J., Li, X., Guo, Z., <u>Yang, J*</u>. Patterns of avian frugivory in Beijing's urban forest across multiple temporal scales. **Ecology and Evolution**, 15, e72699. 
 
-[50] Zhou, X., <u>Yang, J*</u>. 2025. Applications and challenges of AI and LLMs in biodiversity conservation research and practices. **Biodiversity Science**, 33, 25179. (In Chinese, English abstract)
+[51] Hu, J., Zhou, Y., Yang Y., Zhu, Z., <u>Yang, J</u>., Meng X., Lai F. 2025. Multi-city local climate zone mapping and its quantitative applications on measuring surface urban heat Island in China. **Remote Sensing of Environment**, 330, 114965. 
 
-[49] <u>Yang, J*</u>., Yang, X., Liu, X., Zhou, J. 2025. Perspectives of urban biodiversity studies in China serving target 12 of the Kunming-Montreal Global Biodiversity Framework. **Biodiversity Science**, 33, 25104. (In Chinese, English abstract)
+[50] Esperon-Rodriguez, M., Gallagher, R., Calfapietra, C...<u>Yang, J</u>., Tjoelker, MG. 2025. Barriers and opportunities for resilient and sustainable urban forests. **Nature Cities**, 2, 290-298. 
 
-[48] <u>Yang, J*</u> ., Li, J., Kong, F. 2025. Editorial: China’s urban biodiversity studies under the Target 12 of Kunming-Montreal Global Biodiversity Framework. **Biodiversity Science**, 33, 25196. (In Chinese, English abstract) 
+[49] Zhou, X., <u>Yang, J*</u>. 2025. Applications and challenges of AI and LLMs in biodiversity conservation research and practices. **Biodiversity Science**, 33, 25179. (In Chinese, English abstract)
 
-[47] Morgenroth, J., Doick, Kieron, Hauer, R... <u>Yang, J</u>. 2025. Urban tree cover targets: The good, the bad and the SMART. **Urban Forestry & Urban Greening**, 112, 128979. 
+[48] <u>Yang, J*</u>., Yang, X., Liu, X., Zhou, J. 2025. Perspectives of urban biodiversity studies in China serving target 12 of the Kunming-Montreal Global Biodiversity Framework. **Biodiversity Science**, 33, 25104. (In Chinese, English abstract)
 
-[46] Ma, Y., <u>Yang, J*</u>. 2025. A review of methods for quantifying urban ecosystem services. **Landscape and Urban Planning**, 253, 105215. 
+[47] <u>Yang, J*</u> ., Li, J., Kong, F. 2025. Editorial: China’s urban biodiversity studies under the Target 12 of Kunming-Montreal Global Biodiversity Framework. **Biodiversity Science**, 33, 25196. (In Chinese, English abstract) 
 
-[45] Sun, Z., Li, X., Wei, H., Feng, Z., <u>Yang, J*</u>. 2025. Landsat image classification using a deep learning model and multiple-source training samples. **International Journal of Digital Earth**, 1, 2409351. 
+[46] Morgenroth, J., Doick, Kieron, Hauer, R... <u>Yang, J</u>. 2025. Urban tree cover targets: The good, the bad and the SMART. **Urban Forestry & Urban Greening**, 112, 128979. 
 
-[44] Yu, Z., Yang, G., Yang, B., <u>Yang, J</u>...2025. Transforming urbanite health with upstream knowledge, **Environment and Health**, 3, 111-113. 
+[45] Ma, Y., <u>Yang, J*</u>. 2025. A review of methods for quantifying urban ecosystem services. **Landscape and Urban Planning**, 253, 105215. 
 
-[43] Liu, X., Yang, X., Li, X., <u>Yang, J*</u> .2025. Exploring the relationship between frugivorous birds and fruit trees in urban parks using citizen science data. **Urban Ecosystems**, 28, 1-15. 
+[44] Sun, Z., Li, X., Wei, H., Feng, Z., <u>Yang, J*</u>. 2025. Landsat image classification using a deep learning model and multiple-source training samples. **International Journal of Digital Earth**, 1, 2409351. 
 
-[42] Esperon-Rodriuez, M*., Gallagher, RV., …<u>Yang, J</u> … 2025. Global trends in urban forest irrigation: Environmental influences, challenges and opportunities for sustainable practices across 109 cities worldwide. **Sustainable Cities and Society**, 130, 106510. 
+[43] Yu, Z., Yang, G., Yang, B., <u>Yang, J</u>...2025. Transforming urbanite health with upstream knowledge, **Environment and Health**, 3, 111-113. 
 
-[41] Jones, L*., Anderson, S.,…<u>Yang, J</u> … 2025. Re-thinking people and nature interactions in urban nature-based solutions. **Sustainability**, 17, 3043. 
+[42] Liu, X., Yang, X., Li, X., <u>Yang, J*</u> .2025. Exploring the relationship between frugivorous birds and fruit trees in urban parks using citizen science data. **Urban Ecosystems**, 28, 1-15. 
 
-[40] Chi, D., Manoli, G., …<u>Yang, J</u>…2025. Residential tree canopy configuration and mortality in 6 million Swiss adults: a longitudinal study. **The Lancet Planetary Health**, 9, e186-e195. 
+[41] Esperon-Rodriuez, M*., Gallagher, RV., …<u>Yang, J</u> … 2025. Global trends in urban forest irrigation: Environmental influences, challenges and opportunities for sustainable practices across 109 cities worldwide. **Sustainable Cities and Society**, 130, 106510. 
 
-[39] Esperon-Rodriuez, M*., Gallagher, RV., …<u>Yang, J</u> …2025. Barriers and opportunities for resilient and sustainable urban forests. **Nature Cities**, 2, 290-298. 
+[40] Jones, L*., Anderson, S.,…<u>Yang, J</u> … 2025. Re-thinking people and nature interactions in urban nature-based solutions. **Sustainability**, 17, 3043. 
+
+[39] Chi, D., Manoli, G., …<u>Yang, J</u>…2025. Residential tree canopy configuration and mortality in 6 million Swiss adults: a longitudinal study. **The Lancet Planetary Health**, 9, e186-e195. 
 
 [38] Guo, Z., Zhao, J., Yang, X., Ma, Y., Li, X., <u>Yang, J*</u>. 2024. Assessing variation in the perception of urban ecosystem services at the sub-city level. **International Journal of Urban Sustainable Development**, 16, 317-329. 
 
