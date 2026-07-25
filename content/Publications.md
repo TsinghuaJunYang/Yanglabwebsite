@@ -9,6 +9,7 @@ Journal papers published in the last five years. For a full list of publications
 
 [58] Yang, X., Jin, J., Liu, X., Li, X., Frank, L., Yan, P., Myla, A., <u>Yang, J*</u>. 2026. Homogenization and differentiation of urban tree assemblages globally. **Nature Cities**, https://doi.org/10.1038/s44284-026-00393-4. 
 
+
 [57] Yang, X., Yan, P., Ji, J., Li, X., <u>Yang, J*</u>. 2026. Global Urban Tree Species (GUTS): Revealing tree species diversity across the world's urban areas. **Scientific Data**, https://doi.org/10.1038/s41597-026-06868-2. 
 
 [56] Sun, Z., Zhou, Y., <u>Yang, J*</u>. 2026. An LLM-based multi-agent system for remote sensing analysis. **Big Earth Data**. [https://doi.org/10.1080/20964471.2025.2600178](https://doi.org/10.1080/20964471.2025.2600178)
