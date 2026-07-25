@@ -1,6 +1,7 @@
 ---
 title: The Yang Lab
 tags:
+date: 2026-07-25
 ---
 
 ### Welcome to the Yang Lab at Tsinghua University, Beijing, China
