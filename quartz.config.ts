@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "yanglab.work",
-    ignorePatterns: ["private", "templates", ".obsidian","Materials/**"],
+    ignorePatterns: ["private", "templates", ".obsidian","Materials"],
     defaultDateType: "published",
     theme: {
       fontOrigin: "googleFonts",
