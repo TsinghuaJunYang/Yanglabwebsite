@@ -8,7 +8,7 @@ title: Urban Biodiversity Explained
 ---
 ## What is Urban Biodiversity?
 
-The academic definition is: the diversity of ecosystems, species, and genetics within a city. The layman's version can be distilled into two words: **variation**.
+The academic definition is: the diversity of ecosystems, species, and genetics within a city. The layman's version can be distilled into one word: **variation**.
 
 ![Urban landscape](Materials/Blogpapers/urbanlandscape.jpg)
 Figure 1. A snapshot of the Haizhu Wetland in Guangzhou, China
