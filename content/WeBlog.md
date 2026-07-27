@@ -6,7 +6,7 @@ tags:
 ---
 ***
 ## July 2026
-### 27-7-2026 [Urban biodiversity explained](Materials/Blogpapers/Urban biodiversity explained.md)
+### 27-7-2026 [Urban biodiversity explained](Materials/Blogpapers/Urbanbiodiversity.md)
 ## January 2026
 
 ### 06-Jan-2026 [Perceived Green Volume](Materials/Blogpapers/PGV.md) 
