@@ -21,7 +21,7 @@ Research interests: Urban ecosystem structure and functions, urban biodiversity,
 ***
 ## Postdoctoral fellow  
 
-<span style='color: green; font-weight: bold;'> Han Yan </span>   <img src="Materials/Yanhan.jpg" width="150" 
+<span style='color: green; font-weight: bold;'> Dr. Han Yan </span>   <img src="Materials/Yanhan.jpg" width="150" 
 alt="Right aligned" style="float: right; margin: 0 0 5pt 5pt;">
 
 Email: yan_han(at)tsinghua.edu.cn  
