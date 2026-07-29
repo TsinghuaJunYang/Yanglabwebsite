@@ -1,6 +1,6 @@
 ---
 title: Blogs
-date: 2026-01-09
+date: 2026-07-29
 weight: 5
 tags:
 ---
@@ -17,4 +17,4 @@ tags:
 *Note:* If you can read Chinese or are good with web page translation, you are welcomed to visit our WeChat public platform **UBES-China** to access blog papers in other years. You can scan the QR code below to get access.
 
 
-<img src="Materials/Studentphotos/qrcode.jpg" width="300" alt="Right aligned">
+<img src="_materials/Studentphotos/qrcode.jpg" width="300" alt="Right aligned">
