@@ -41,9 +41,9 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer({
 		filterFn: (node) => { 
 		if (node.name =="Materials"){
-			return false
+			return false;
 		}
-		return true
+		return true;
 	 }
 	}),
   ],
@@ -73,9 +73,9 @@ export const defaultListPageLayout: PageLayout = {
     Component.Explorer({
 		filterFn: (node) => { 
 		if (node.name =="Materials"){
-			return false
+			return false;
 		}
-		return true
+		return true;
 	 }
 	}),
   ],
