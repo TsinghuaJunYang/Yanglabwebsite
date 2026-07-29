@@ -54,7 +54,7 @@ Reserach interests: Historical patterns of global urbanization
 
 
 ***
-<span style='color: green; font-weight: bold;'> Xinyi Liu </span>  <img src="Materials/Sutdentphotos/Liuxinyi.jpg" width="150" 
+<span style='color: green; font-weight: bold;'> Xinyi Liu </span>  <img src="Materials/Studentphotos/Liuxinyi.jpg" width="150" 
 alt="Right aligned" style="float: right; margin: 0 0 5pt 5pt;">
 
 Email: liu-xy22(at)mails.tsinghua.edu.cn
