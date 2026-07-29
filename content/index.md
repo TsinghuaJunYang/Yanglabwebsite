@@ -7,7 +7,7 @@ date: 2026-07-25
 ### Welcome to the Yang Lab at Tsinghua University, Beijing, China
 
 
-![lab photo](Materials/Promo.jpg)
+![lab photo](Promo.jpg)
 
 The **Yang Lab** is committed to promoting urban sustainability and livability through comprehensive ecological research. By integrating **field work** with **AI, big data, and remote sensing**, we investigate the intricate interactions between constructed environments and natural systems across four principal themes.
 

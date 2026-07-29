@@ -1,17 +1,17 @@
 ---
-title: WeBlog
+title: All blogs
 date: 2026-01-09
 weight: 5
 tags:
 ---
 ***
 ## July 2026
-### 27-7-2026 [Urban biodiversity explained](Materials/Blogpapers/Urbanbiodiversity.md)
+### 27-7-2026 [Urban biodiversity explained](Urbanbiodiversity.md)
 ## January 2026
 
-### 06-Jan-2026 [Perceived Green Volume](Materials/Blogpapers/PGV.md) 
+### 06-Jan-2026 [Perceived Green Volume](PGV.md) 
 
-### 08-Jan-2026 [Prof. Raffaele Lafortezza from the University of Bari visits the lab](Materials/Blogpapers/VisitbyRaff.md)
+### 08-Jan-2026 [Prof. Raffaele Lafortezza from the University of Bari visits the lab](VisitbyRaff.md)
 
 
 *Note:* If you can read Chinese or are good with web page translation, you are welcomed to visit our WeChat public platform **UBES-China** to access blog papers in other years. You can scan the QR code below to get access.
