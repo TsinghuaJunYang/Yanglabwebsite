@@ -39,13 +39,11 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-		filterFn: (node) => { 
-		if (node.name =="Materials"){
-			return false;
-		}
-		return true;
-	 }
-	}),
+	filterFn: (node) => {
+    // Exclude anything whose display name starts with "_"
+    return !node.displayName.startsWith("_")
+     },
+	})
   ],
   right: [
     Component.Graph(),
@@ -70,14 +68,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer({
-		filterFn: (node) => { 
-		if (node.name =="Materials"){
-			return false;
-		}
-		return true;
-	 }
-	}),
+    Component.Explorer(),
   ],
   right: [],
 }
