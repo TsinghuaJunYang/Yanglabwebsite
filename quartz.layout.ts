@@ -40,10 +40,13 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer({
 		filterFn: (node) => { 
-		if (node.name =="Materials"){
-			return false
-		}
-		return true
+		 if (node.name.toLowerCase() === "content") return true;
+         // 2. 隐藏指定文件夹
+         const name = node.name.toLowerCase().trim();
+         const hiddenFolders = ["materials", "assets", "images"];
+    
+         if (hiddenFolders.includes(name)) return false;
+         return true;
 	 }
 	}),
   ],
@@ -72,10 +75,13 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer({
 		filterFn: (node) => { 
-		if (node.name =="Materials"){
-			return false
-		}
-		return true
+		if (node.name.toLowerCase() === "content") return true;
+         // 2. 隐藏指定文件夹
+         const name = node.name.toLowerCase().trim();
+         const hiddenFolders = ["materials", "assets", "images"];
+    
+         if (hiddenFolders.includes(name)) return false;
+         return true;
 	 }
 	}),
   ],

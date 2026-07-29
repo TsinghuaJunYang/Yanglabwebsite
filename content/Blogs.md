@@ -17,4 +17,4 @@ tags:
 *Note:* If you can read Chinese or are good with web page translation, you are welcomed to visit our WeChat public platform **UBES-China** to access blog papers in other years. You can scan the QR code below to get access.
 
 
-<img src="Materials/qrcode.jpg" width="300" alt="Right aligned">
+<img src="Materials/Studentphotos/qrcode.jpg" width="300" alt="Right aligned">
