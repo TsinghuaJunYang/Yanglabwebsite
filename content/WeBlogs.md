@@ -1,5 +1,5 @@
 ---
-title: Blogs
+title: WeBlogs
 date: 2026-07-29
 weight: 5
 tags:
