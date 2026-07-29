@@ -20,7 +20,7 @@ This data set contains data collected from 241 studies on methods and parameters
 
 **Data link:** https://data.tpdc.ac.cn/zh-hans/data/911366f9-3d9f-419e-822e-547f42ef2077
 
-**Citations:** Ma, Y., **Yang, J***. 2025. A review of methods for quantifying urban ecosystem services. _Landscape and Urban Planning_, 253, 105215. https://doi.org/10.1016/j.landurbplan.2024.105215
+**Citations:** Ma, Y., Yang, J. 2025. A review of methods for quantifying urban ecosystem services. _Landscape and Urban Planning_, 253, 105215. https://doi.org/10.1016/j.landurbplan.2024.105215
 
 
 ## Methods

@@ -1,5 +1,5 @@
 ---
-title: All blogs
+title: Blogs
 date: 2026-01-09
 weight: 5
 tags:

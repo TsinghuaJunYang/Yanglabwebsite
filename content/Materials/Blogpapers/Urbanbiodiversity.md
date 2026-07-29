@@ -10,7 +10,7 @@ title: Urban Biodiversity Explained
 
 The academic definition is: the diversity of ecosystems, species, and genetics within a city. The layman's version can be distilled into one word: **variation**.
 
-![Urban landscape](Materials/Blogpapers/urbanlandscape.jpg)
+![Urban landscape](urbanlandscape.jpg)
 Figure 1. A snapshot of the Haizhu Wetland in Guangzhou, China
 
 Let me give an example to make this clear. You walk out of your residential compound gate and see the courtyard of CEO Wang's villa across the street. It has tall, straight American Red Maples, a neatly trimmed Kentucky Bluegrass lawn, a row of expensive-looking heather along the edge, dotted with a few Italian Cypresses and dozens of unrecognizable, precious imported flowers. You look back at your own compound and see two rows of rustic Chinese Scholar Trees with a few Honeysuckles mixed in. You immediately think that the biodiversity in your yard is not as good as CEO Wang's. Yes, you are right. If we use the number of plant species as an indicator of biodiversity (Alpha diversity), for a yard of the same area, if the compound has fewer species than Wang's, the biodiversity is lower.
@@ -35,7 +35,7 @@ What about **mosquito bites**? If there are more trees and grass in the compound
 
 **Wild boars** entering the city also reflects the negative impact of human activities on biodiversity, not a sign that biodiversity is improving. In nature, due to human hunting and the fragmentation and loss of habitats, apex predators that hunt wild boars have disappeared or gone extinct, causing the wild boar population to explode due to the loss of natural enemy control. Coupled with human feeding and poor garbage management, wild boars are gradually drawn from natural areas into the city. Finally, the tragedy of human-beast conflicts occurs.
 
-![Wild hog](Materials/Blogpapers/threepiglets.jpg)
+![Wild hog](threepiglets.jpg)
 Figure 2. Three wild boar piglets near the Hong Kong University campus
 ## Can We Choose What Kind of Urban Biodiversity to Have?
 

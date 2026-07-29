@@ -7,7 +7,7 @@ date: 2026-01-09
 
 ***
  
-<img src="Materials/Junphoto2.jpg" width="200" alt="Right aligned" style="float: right; margin: 0 0 0 0;">Dr. Jun Yang heads the Urban Ecology group within the Department of Earth System Science at Tsinghua University, China. His current research concentrates on methodologies for quantifying urban ecosystem services and their benefits to human well-being, monitoring and conserving urban biodiversity, and implementing nature-based solutions to improve urban climate resilience. Through these investigations, he seeks to comprehend the structure and functions of urban ecosystems to promote their sustainable management. 
+<img src="Materials/Studentphotos/Junphoto2.jpg" width="200" alt="Right aligned" style="float: right; margin: 0 0 0 0;">Dr. Jun Yang heads the Urban Ecology group within the Department of Earth System Science at Tsinghua University, China. His current research concentrates on methodologies for quantifying urban ecosystem services and their benefits to human well-being, monitoring and conserving urban biodiversity, and implementing nature-based solutions to improve urban climate resilience. Through these investigations, he seeks to comprehend the structure and functions of urban ecosystems to promote their sustainable management. 
 
 ## Reserach Interests
 

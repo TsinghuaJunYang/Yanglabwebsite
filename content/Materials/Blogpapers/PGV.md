@@ -8,13 +8,13 @@ For residents to perceive green space, they must first have exposure to it. Base
 
 To quantify green space for residents' conscious exposure, three factors need to be considered: (1) Residents must be able to use the green space; according to the situation in Beijing, this mainly refers to green spaces in the residential communities where residents live and parks; (2) It must be able to distinguish differences in exposure levels brought about by different vegetation structures, as the degree of exposure for residents in woods and grasslands is obviously different even for green spaces of the same area; (3) The indicator must have physical dimensions; dimensional indicators facilitate goal setting and adjustment through planning and design, and can be understood by management personnel. Based on the above considerations, the study proposes Perceived Green Volume (PGV): the volume of vegetation green that residents can perceive when consciously exposed to green spaces. Its specific calculation method is as follows:
 
-![PGV equation](Materials/Blogpapers/PGVequation.jpg)
+![PGV equation](PGVequation.JPG)
 
 Where Cpgv is the structure preception coefficent and Av is the area of green vegetation. This indicator uses the residential community as the calculation unit to calculate the PGV for each community. The distance involved is set as a 15-minute walking distance (900m) in this study, but can be determined according to residents' actual travel trajectories or the needs of planning departments. Vegetation types are obtained through classification based on high-resolution satellite imagery. Based on the characteristics of Beijing's urban vegetation and the features of remote sensing data, the study determined seven vegetation types: pure coniferous forest, mixed coniferous and broadleaf forest, deciduous broadleaf forest, shrubs, grassland, arbor-shrub mixture, and shrub-grass mixture. Therefore, the key to the research is obtaining the green space structure perception coefficients.
 
 The study selected Dongcheng and Xicheng Districts in Beijing as the research area. First, Area of Interest (AOI) data for residential communities were obtained to determine the spatial scope of the communities. Then, based on deep learning methods, the Gaofen-2 satellite was classified to obtain land cover for the two districts (overall accuracy >80%), from which vegetation was extracted. The construction of the structure coefficients employed the Analytic Hierarchy Process (AHP), which allows for a good balance between subjectivity and objectivity. The indicator layer selected vegetation complexity, vegetation volume, and sustainability (Figure 1), based on a research review on how vegetation affects subjective perception.
 
-![Vegetation features](Materials/Blogpapers/Pic2.jpg)
+![Vegetation features](Pic2.jpg)
 Fig.1 Three features of vegetation used to construct the preceived structure coefficients.
 
 The setting of weight coefficients was conducted through the expert scoring method. The study selected experts related to urban greening who work or study in the Beijing region or have experience there to distribute questionnaires. The experts scored how the three indicators affect the subjective perception of green volume for different vegetation types. Finally, 51 questionnaires were collected. The structure coefficients were calculated based on the questionnaire results.
@@ -23,7 +23,7 @@ To compare with existing indicators, the study selected common green space area,
 
 The results show that the green space area within the 900m range or the area of community and park green space is far higher than the PGV (Figure 2). This indicates that after considering the impact of vegetation structure on residents' subjective perception of green volume, the green volume perceived by residents is discounted compared to the green volume in the physical sense.
 
-![Result](Materials/Blogpapers/Pict3.jpg)
+![Result](Pict3.jpg)
 Fig.2 Spatial variation of indicator values in residential areas. (a) Conventional indicator based on green space coverage area (GArea); (b) Conventional indicator based on NDVI (GNDVI); (c) Proposed green volume (GV); (d) Proposed perceived green volume (PGV).
 
 
