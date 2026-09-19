@@ -1,15 +1,16 @@
 ---
 title: Publications
 weight: 3
-date: 2026-02-25
+date: 2026-09-15
 tags:
 ---
 
 ***
 Journal papers published in the last five years. For a full list of publications, please check out my [Google Scholar page](https://scholar.google.com/citations?user=Q6TkqvkAAAAJ&hl=en), or [ORCID page](https://orcid.org/0000-0003-0824-749X))
 
-[58] Yang, X., Jin, J., Liu, X., Li, X., Frank, L., Yan, P., Myla, A., <u>Yang, J*</u>. 2026. Homogenization and differentiation of urban tree assemblages globally. **Nature Cities**, https://doi.org/10.1038/s44284-026-00393-4. 
+[59] Chi, D., Richards, D., Manoli, G.,  <u>Yang, J</u>., +11. 2026. Urban tree canopy fragmentation and child mortality in low- and middle-income countries. **PNAS**, https://www.pnas.org/doi/10.1073/pnas.2606669123
 
+[58] Yang, X., Jin, J., Liu, X., Li, X., Frank, L., Yan, P., Myla, A., <u>Yang, J*</u>. 2026. Homogenization and differentiation of urban tree assemblages globally. **Nature Cities**, https://doi.org/10.1038/s44284-026-00393-4. 
 
 [57] Yang, X., Yan, P., Ji, J., Li, X., <u>Yang, J*</u>. 2026. Global Urban Tree Species (GUTS): Revealing tree species diversity across the world's urban areas. **Scientific Data**, https://doi.org/10.1038/s41597-026-06868-2. 
 

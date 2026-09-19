@@ -5,11 +5,14 @@ weight: 5
 tags:
 ---
 ***
+## September 2026
+### 15-Sept-2026  [Origin of GVI](_materials/Blogpapers/GVI.md)
+
 ## July 2026
-### 27-7-2026 [Urban biodiversity explained](Urbanbiodiversity.md)
+### 27-July-2026 [Urban biodiversity explained](_materials/Blogpapers/Urbanbiodiversity.md)
 ## January 2026
 
-### 06-Jan-2026 [Perceived Green Volume](PGV.md) 
+### 06-Jan-2026 [Perceived Green Volume](_materials/Blogpapers/PGV.md) 
 
 ### 08-Jan-2026 [Prof. Raffaele Lafortezza from the University of Bari visits the lab](VisitbyRaff.md)
 
