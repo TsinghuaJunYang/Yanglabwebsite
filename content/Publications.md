@@ -8,13 +8,13 @@ tags:
 ***
 Journal papers published in the last five years. For a full list of publications, please check out my [Google Scholar page](https://scholar.google.com/citations?user=Q6TkqvkAAAAJ&hl=en), or [ORCID page](https://orcid.org/0000-0003-0824-749X))
 
-[59] Chi, D., Richards, D., Manoli, G.,  <u>Yang, J</u>., +11. 2026. Urban tree canopy fragmentation and child mortality in low- and middle-income countries. **PNAS**, https://www.pnas.org/doi/10.1073/pnas.2606669123
+[59] Chi, D., Richards, D., Manoli, G.,  <u>Yang, J</u>., +11. 2026. Urban tree canopy fragmentation and child mortality in low- and middle-income countries. **PNAS**, 123, e2606669123.
 
-[58] Yang, X., Jin, J., Liu, X., Li, X., Frank, L., Yan, P., Myla, A., <u>Yang, J*</u>. 2026. Homogenization and differentiation of urban tree assemblages globally. **Nature Cities**, https://doi.org/10.1038/s44284-026-00393-4. 
+[58] Yang, X., Jin, J., Liu, X., Li, X., Frank, L., Yan, P., Myla, A., <u>Yang, J*</u>. 2026. Homogenization and differentiation of urban tree assemblages globally. **Nature Cities**, 3, 273-282. 
 
-[57] Yang, X., Yan, P., Ji, J., Li, X., <u>Yang, J*</u>. 2026. Global Urban Tree Species (GUTS): Revealing tree species diversity across the world's urban areas. **Scientific Data**, https://doi.org/10.1038/s41597-026-06868-2. 
+[57] Yang, X., Yan, P., Ji, J., Li, X., <u>Yang, J*</u>. 2026. Global Urban Tree Species (GUTS): Revealing tree species diversity across the world's urban areas. **Scientific Data**, 13, 485.  
 
-[56] Sun, Z., Zhou, Y., <u>Yang, J*</u>. 2026. An LLM-based multi-agent system for remote sensing analysis. **Big Earth Data**. [https://doi.org/10.1080/20964471.2025.2600178](https://doi.org/10.1080/20964471.2025.2600178)
+[56] Sun, Z., Zhou, Y., <u>Yang, J*</u>. 2026. An LLM-based multi-agent system for remote sensing analysis. **Big Earth Data**, 1-25. [https://doi.org/10.1080/20964471.2025.2600178](https://doi.org/10.1080/20964471.2025.2600178)
 
 [55] <u>Yang, J*</u>., Zhou, X., Yang, X. 2026. Analysis of Principles and contents of guidelines for constructing bird-friendly urban green spaces. **Landscape Architecture**, 33, 1-12. (In Chinese, Long English abstract)
 

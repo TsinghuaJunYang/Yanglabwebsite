@@ -1,5 +1,5 @@
 ---
-title: Origine of Green View Index (GVI)
+title: The origin of Green View Index (GVI)
 date: 2026-09-18
 author: Jun Yang
 ---

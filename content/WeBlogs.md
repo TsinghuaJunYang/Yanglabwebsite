@@ -6,7 +6,11 @@ tags:
 ---
 ***
 ## September 2026
+
 ### 15-Sept-2026  [Origin of GVI](_materials/Blogpapers/GVI.md)
+
+### 17-Sept-2026  [Visit by HKU professor](_materials/Blogpapers/Visitbywendy.md)
+
 
 ## July 2026
 ### 27-July-2026 [Urban biodiversity explained](_materials/Blogpapers/Urbanbiodiversity.md)
