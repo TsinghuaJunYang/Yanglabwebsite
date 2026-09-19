@@ -1,8 +1,8 @@
 ---
-title: Visit by Prof. Wendy Chen and Prof. van der Wouden Frank
+title: Visit by Prof. Wendy Chen and Prof. Frank van der Wouden
 date: 2026-09-17
 ---
-Prof. Wendy Chen and Prof. Frank van der Wouden from University of Hong Kong visited the lab on September 17, 2026. Prof. Wendy Chen delivered an excellent talk on the inequality of urban green spaces between global North and South. She emphasized the importance of quality of green spaces when comparing the trend. 
+Prof. Wendy Chen and Prof. Frank van der Wouden from University of Hong Kong visited the lab on September 17, 2026. Prof. Chen delivered an excellent talk on the inequality of urban green spaces between global North and South. She emphasized the importance of quality of green spaces when comparing the trend. 
 
 ![Professor Chen](_materials/Media/Profchenyan.jpg)
 
